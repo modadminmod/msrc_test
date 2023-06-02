@@ -1,2 +1,3 @@
+pool: Default
 steps:
 - bash: echo "pipeline (A) runs first"
