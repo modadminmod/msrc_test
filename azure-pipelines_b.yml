@@ -1,6 +1,7 @@
 trigger: none
 pr: none
 
+pool: Default
 
 resources:
   pipelines:
